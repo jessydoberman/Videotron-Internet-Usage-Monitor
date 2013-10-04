@@ -2,29 +2,25 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>AllowSystem</key>
-    <true/>
-    <key>CFBundleDevelopmentRegion</key>
-    <string>English</string>
-    <key>CFBundleDisplayName</key>
-    <string>Untitled</string>
-    <key>CFBundleIdentifier</key>
-    <string>com.gabB.widget.Untitled</string>
-    <key>CFBundleName</key>
-    <string>Untitled</string>
-    <key>CFBundleShortVersionString</key>
-    <string>1.0</string>
-    <key>CFBundleVersion</key>
-    <string>1.0</string>
-    <key>CloseBoxInsetX</key>
-    <integer>12</integer>
-    <key>CloseBoxInsetY</key>
-    <integer>13</integer>
-    <key>Height</key>
-    <integer>380</integer>
-    <key>MainHTML</key>
-    <string>main.html</string>
-    <key>Width</key>
-    <integer>280</integer>
+	<key>CFBundleDisplayName</key>
+	<string>Vidéotron Internet Usage Monitor</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.pommepause.widget.videotron_internet_usage_monitor</string>
+	<key>AllowNetworkAccess</key>
+	<true/>
+	<key>MainHTML</key>
+	<string>index.html</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.3.9</string>
+	<key>CFBundleVersion</key>
+	<string>1.3.9</string>
+	<key>Height</key>
+	<integer>210</integer>
+	<key>Width</key>
+	<integer>408</integer>
+	<key>CloseBoxInsetX</key>
+	<integer>11</integer>
+	<key>CloseBoxInsetY</key>
+	<integer>5</integer>
 </dict>
 </plist>
